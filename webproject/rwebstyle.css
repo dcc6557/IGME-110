@@ -49,6 +49,7 @@ a
 footer
 {
     position: sticky;
+    font-size: 38px;
     text-align: center;
     color:black;
 }
