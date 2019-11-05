@@ -6,6 +6,13 @@ header
     background-color: RGBA(0, 0, 0, .6);
     color: darkgoldenrod;
 }
+nav
+{
+    background-color: RGBA(184, 124, 11, .6 );
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Oswald', 'sans-serif';
+}
 body
 {
     background-color: dimgrey;
@@ -14,6 +21,7 @@ body
 p 
 {
     font-family: 'Oswald', sans-serif;
+    font-size: 28px;
 }
 h1
 {
@@ -34,6 +42,16 @@ li
 a
 {
     font-family: 'Oswald';
+}
+ul
+{
+    list-style-type: none;
+    padding-left: 62px;
+    text-indent: -62px;
+}
+li
+{
+        font-size: 28px;
 }
 .column
 {
