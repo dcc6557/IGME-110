@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.17.0" title="Shotcut version 19.10.20" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.833">
+    <property name="length">1431</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Downloads/Life Highway Clip.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2018-09-21T05:53:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">232cac3b1b4be1c02c468a6689393cb0</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:01:42.900">
+    <property name="length">6175</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Paul Haslinger and Ben Frost - The Brief.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-07T19:30:34</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2a97ef9e2e8ee293ad6f5b07f77c2694</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.750">
+    <property name="length">00:00:28.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Car, but it's my voice_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:14:27</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ed98b046bc55935c90c6b2bc1b0b5749</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Car, but it's my voice_copy.m4a</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.250">
+    <property name="length">1396</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Very bad rendition of Life is a Highway_copy_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:41:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">18f6fa2f5f4ba42521672daca418e1aa</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.383">
+    <property name="length">84</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Car driving by, but it's my voice_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:25:01</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">54ac3935c8eb6da350e6253573ddf167</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.400">
+    <property name="length">265</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Complaining about music.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:51:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14dcff27a3dfe9546200dd1d6db81768</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 19.10.20">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:23.833"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:01:42.900"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:28.750"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:23.250"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:01.383"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:04.400"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:23.833">
+    <property name="length">00:00:23.850</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:23.833"/>
+  </playlist>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.833">
+    <property name="length">1431</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Downloads/Life Highway Clip.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2018-09-21T05:53:46</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">232cac3b1b4be1c02c468a6689393cb0</property>
+    <property name="shotcut:caption">Life Highway Clip.mp4</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:23.833"/>
+  </playlist>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.250">
+    <property name="length">1396</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Very bad rendition of Life is a Highway_copy_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:41:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">18f6fa2f5f4ba42521672daca418e1aa</property>
+    <property name="shotcut:caption">Very bad rendition of Life is a Highway_copy_copy.m4a</property>
+    <filter id="filter0" out="00:00:23.250">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-7.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+    <filter id="filter1" out="00:00:23.250">
+      <property name="mlt_service">ladspa.1882</property>
+      <property name="0">0</property>
+      <property name="1">100</property>
+      <property name="2">440</property>
+      <property name="3">0</property>
+      <property name="4">1</property>
+      <property name="5">3.2</property>
+      <property name="6">0</property>
+      <property name="instances">1</property>
+      <property name="7[0]">-41.1166</property>
+      <property name="8[0]">-5.81108e-005</property>
+    </filter>
+    <filter id="filter2" out="00:00:23.250">
+      <property name="mlt_service">ladspa.1892</property>
+      <property name="0">1852</property>
+      <property name="1">3557</property>
+      <property name="2">4</property>
+      <property name="wetness">0.95</property>
+      <property name="instances">2</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <property name="shotcut:lock">1</property>
+    <blank length="00:00:00.567"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:23.250"/>
+  </playlist>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.750">
+    <property name="length">00:00:28.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Car, but it's my voice_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:14:27</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ed98b046bc55935c90c6b2bc1b0b5749</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Car, but it's my voice_copy.m4a</property>
+    <filter id="filter3" out="00:00:23.817">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-9.5</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:23.817"/>
+  </playlist>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.383">
+    <property name="length">84</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Car driving by, but it's my voice_copy.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:25:01</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">54ac3935c8eb6da350e6253573ddf167</property>
+    <property name="shotcut:caption">Car driving by, but it's my voice_copy.m4a</property>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A3</property>
+    <property name="shotcut:lock">1</property>
+    <blank length="00:00:15.183"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:01.383"/>
+  </playlist>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.400">
+    <property name="length">265</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/lilco/Music/Complaining about music.m4a</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-11-10T20:51:40</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14dcff27a3dfe9546200dd1d6db81768</property>
+    <property name="shotcut:caption">Complaining about music.m4a</property>
+    <filter id="filter4" out="00:00:04.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">6.1</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A4</property>
+    <property name="shotcut:lock">1</property>
+    <blank length="00:00:18.717"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:04.400"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 19.10.20" global_feed="1" in="00:00:00.000" out="00:00:23.833">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3" hide="video"/>
+    <track producer="playlist4" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
